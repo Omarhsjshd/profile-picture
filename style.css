@@ -1,0 +1,45 @@
+body { 
+   background-color: aquamarine;
+   font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+
+
+
+
+
+.div1{
+    background-color: black;
+    margin: 120px auto;
+    width: 350px;
+
+    padding:30px ;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.div1 img{
+    width: 120px;
+    height: 120px;
+    border-radius: 50% ;
+
+
+}
+.card h1 {
+    font-size: 25px;
+    margin-bottom: -5px;
+}
+.div1 p{
+
+    color: aliceblue;
+}
+.div1 a{
+    background-color: azure;
+    color: rgb(31, 24, 15);
+    padding: 10px;
+    text-decoration: none;
+}
+
+.div
